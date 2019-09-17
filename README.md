@@ -1,2 +1,5 @@
 # hello-world
-test
+
+My first repository on GitHub
+
+I love :pizza: :spaghetti:, and :chicken:.
